@@ -1,0 +1,4 @@
+- Olá, sou Gabrieli Esther Lopes Irala.
+- Tenho 15 anos.
+- Sou estudante do Colégio Pedro Américo.
+- Estudo no 9 ano.
