@@ -1,4 +1,5 @@
 - Olá, sou Gabrieli Esther Lopes Irala.
-- Tenho 15 anos.
-- Sou estudante do Colégio Pedro Américo.
-- Estudo no 9 ano.
+- Tenho 16 anos.
+- Sou estudante do Colégio Estadual Jóse de Alencar.
+- Estudo no 1 ano.
+- Isto é tudo pessoal.
